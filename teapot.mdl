@@ -1,0 +1,15 @@
+shading gouraud
+constants shiny_purple 0.3 0.2 0.8 0.3 0 0 0.3 0.2 0.8
+push
+move 80 280 0
+scale 50 50 50
+rotate z -50
+mesh shiny_purple :teapot
+pop
+move 270 10 0
+scale 2 2 2
+rotate x 270
+rotate z 10
+mesh :cup
+save teapot.png
+display

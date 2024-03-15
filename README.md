@@ -1,4 +1,3 @@
-# gfx-10-final
 # Shreya Roy and Daniel He
 
 ### Features Implemented:
@@ -8,11 +7,3 @@
 - MDL `shading` Gouraud 
 	- Gouraud shading is the default shading method
 	- `shading flat` to specify flat shading or `shading gouraud` to specify gouraud shading.
-
-### Goal: 
-- implement use of external .obj files mesh (triangles)
-- a new shading method
-
-If time allows it:
-- animation
-- anti-aliasing
